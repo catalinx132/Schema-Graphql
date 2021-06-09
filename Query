@@ -1,0 +1,20 @@
+{
+  "issueCount": 1,
+  "edges": [
+    {
+      "node": {
+        "number": 105,
+        "title": " ",
+        "repository": {
+          "nameWithOwner": ""
+        },
+        "createdAt": "",
+        "mergedAt": "",
+        "url": "",
+        "changedFiles": 1,
+        "additions": 1,
+        "deletions": 1
+      }
+    }
+  ]
+}
